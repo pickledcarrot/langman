@@ -1,0 +1,141 @@
+Essential Spanish Grammar Review
+===============================
+
+Use this as a compact review sheet while you practice.
+
+1. Articles and gender
+- Nouns are usually masculine or feminine.
+- Common pattern: nouns ending in -o are often masculine, and nouns ending in -a are often feminine.
+- Use definite articles for "the": el, la, los, las.
+- Use indefinite articles for "a/an": un, una, unos, unas.
+- Adjectives often agree with the noun in gender and number.
+- Example: el libro rojo, la casa roja, los libros rojos.
+
+2. Singular and plural
+- Add -s after a vowel: libro -> libros.
+- Add -es after most consonants: papel -> papeles.
+- If a noun or adjective ends in -z, change z to c before adding -es: luz -> luces.
+
+3. Subject pronouns
+- yo = I
+- tu = you informal
+- el/ella/usted = he/she/you formal
+- nosotros/nosotras = we
+- vosotros/vosotras = you all informal in Spain
+- ellos/ellas/ustedes = they / you all
+- Spanish often drops the subject pronoun when the verb already makes it clear.
+
+4. Present tense basics
+- Regular verb endings:
+- -ar: hablo, hablas, habla, hablamos, hablan
+- -er: como, comes, come, comemos, comen
+- -ir: vivo, vives, vive, vivimos, viven
+- Learn a few core irregulars early: ser, estar, ir, tener, hacer.
+
+5. Ser vs estar
+- ser is used for identity, origin, characteristics, time, and relationships.
+- estar is used for location, temporary states, and many feelings or conditions.
+- Example: Soy estudiante. Estoy cansado. Madrid esta en Espana.
+
+6. Hay vs estar
+- hay means "there is" or "there are".
+- estar says where something is located.
+- Example: Hay un libro en la mesa. El libro esta en la mesa.
+
+7. Basic question words
+- que = what
+- quien = who
+- donde = where
+- cuando = when
+- por que = why
+- como = how
+- cual = which / what one
+
+8. Gustar pattern
+- gustar works like "is pleasing to."
+- me gusta = I like
+- te gusta = you like
+- le gusta = he/she/you formal likes
+- nos gusta = we like
+- les gusta = they/you all like
+- Use gusta with a singular noun or infinitive, and gustan with plural nouns.
+- Example: Me gusta leer. Me gustan los libros.
+
+9. Negation
+- Put no before the verb.
+- Example: No entiendo. No quiero cafe.
+- Words like nunca, nadie, and nada can also appear with no before the verb in many sentences.
+
+10. Adjective agreement
+- Adjectives usually match the noun in gender and number.
+- Example: un chico alto, una chica alta, chicos altos, chicas altas.
+
+11. Possessives
+- mi, tu, su, nuestro, vuestro
+- They also agree in number when needed: mis libros, nuestras casas.
+- su can mean his, her, your formal, their, or your plural, so context matters.
+
+12. Direct object pronouns
+- me, te, lo, la, nos, os, los, las
+- They replace the noun receiving the action.
+- Example: Compro el libro -> Lo compro.
+
+13. Indirect object pronouns
+- me, te, le, nos, os, les
+- They show to whom or for whom something is done.
+- Example: Doy el libro a Ana -> Le doy el libro.
+
+14. Common present irregulars
+- tener: tengo
+- hacer: hago
+- poner: pongo
+- salir: salgo
+- venir: vengo
+- decir: digo
+- oir: oigo
+- conocer: conozco
+
+15. Stem-changing verbs
+- e -> ie: pensar -> pienso
+- o -> ue: poder -> puedo
+- e -> i: pedir -> pido
+- Usually the change happens in all present-tense forms except nosotros and vosotros.
+
+16. Reflexive verbs
+- Use reflexive pronouns: me, te, se, nos, os, se.
+- Example: me levanto, se llama, nos acostamos.
+- These are common for daily routines.
+
+17. Near future
+- ir + a + infinitive expresses "going to".
+- Example: Voy a estudiar. Vamos a comer.
+
+18. Simple past overview
+- Preterite is for completed actions.
+- Imperfect is for background, repeated past actions, age, time, and ongoing situations.
+- Example: Ayer estudie dos horas. Cuando era nino, estudiaba en casa.
+
+19. Por vs para
+- por often expresses cause, exchange, movement through, duration, or means.
+- para often expresses purpose, destination, deadline, or recipient.
+- Example: Estudio para aprender. Gracias por ayudar.
+
+20. Personal a
+- Use a before a specific human direct object.
+- Example: Veo a Maria. Conozco a mi profesor.
+
+21. Comparisons
+- mas ... que = more ... than
+- menos ... que = less ... than
+- tan ... como = as ... as
+- mejor and peor are common irregular comparisons.
+
+22. Commands overview
+- Informal tu commands are very common: habla, come, vive.
+- Negative tu commands use the present subjunctive: no hables, no comas, no vivas.
+- Learn polite commands later after the basics are stable.
+
+23. Practical study habits
+- Track repeated mistakes by topic, not just by score.
+- If you miss three items on the same topic, review that rule and write two original examples.
+- Say answers out loud to connect grammar, spelling, and pronunciation.
