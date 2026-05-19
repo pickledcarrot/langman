@@ -39,6 +39,11 @@ pub struct SavedExercise {
     pub grammar_rule_id: String,
 }
 
+pub struct RecentExercise {
+    pub prompt: String,
+    pub answer: String,
+}
+
 pub struct AttemptRecord<'a> {
     pub exercise_id: &'a str,
     pub grammar_rule_id: &'a str,
@@ -141,6 +146,36 @@ impl Database {
             session_id,
             saved_exercises,
         })
+    }
+
+    pub fn recent_exercises(
+        &self,
+        language: &str,
+        level: &str,
+        limit: usize,
+    ) -> Result<Vec<RecentExercise>, Box<dyn Error>> {
+        let connection = self.open()?;
+        let mut statement = connection.prepare(
+            "SELECT prompt, answer
+             FROM exercises
+             WHERE language = ?1 AND cefr_level = ?2
+             ORDER BY created_at DESC
+             LIMIT ?3",
+        )?;
+
+        let rows = statement.query_map(params![language, level, limit as i64], |row| {
+            Ok(RecentExercise {
+                prompt: row.get(0)?,
+                answer: row.get(1)?,
+            })
+        })?;
+
+        let mut exercises = Vec::new();
+        for row in rows {
+            exercises.push(row?);
+        }
+
+        Ok(exercises)
     }
 
     pub fn record_attempt(

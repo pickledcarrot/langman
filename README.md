@@ -27,6 +27,19 @@ By default, Langman uses `gpt-5-mini`. You can override the model with:
 export OPENAI_MODEL=gpt-5-mini
 ```
 
+You can make generation more or less varied with:
+
+```sh
+export OPENAI_TEMPERATURE=1.2
+```
+
+`OPENAI_TEMPERATURE` must be between `0` and `2`. Higher values usually produce
+more varied exercises, while lower values are more consistent.
+
+Note: OpenAI currently only supports `temperature` for `gpt-5.1` and `gpt-5.2`
+when reasoning is set to `none`. The default `gpt-5-mini` model ignores this
+setting in Langman because sending it would cause a `400 Bad Request`.
+
 Langman stores local learning data in:
 
 ```sh
@@ -77,6 +90,7 @@ langman
 - Exact answer matching after trimming and lowercasing
 - Built-in Spanish grammar review notes in `resources/spanish_grammar.txt`
 - SQLite persistence for generated exercises, study sessions, and attempts
+- Randomized grammar-rule selection and recent-duplicate avoidance during generation
 
 ## Database Model
 
